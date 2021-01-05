@@ -9,4 +9,4 @@ Nach dem Download müssen Sie nur das Skript "Corona Impfungen.js" hier runterla
 Viel Spaß damit! 
 
 
-Screenshot Widget.jpeg
+
