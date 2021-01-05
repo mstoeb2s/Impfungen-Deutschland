@@ -15,8 +15,8 @@
 9 NRW
 10 Rheinland-Pfalz
 11 Saarland
-12 Sachsen-Anhalt
-13 Sachsen
+12 Sachsen
+13 Sachsen-Anhalt
 14 Schleswig-Holstein
 15 Thüringen
 
@@ -99,8 +99,8 @@ var impfGes_pro = impfGes/83020000*100;
   if (BL==9) {einwohner=17947000 ; BL_Text="NRW"}
   if (BL==10) {einwohner=4085000 ; BL_Text="RP"}
   if (BL==11) {einwohner=987000 ; BL_Text="SL"}
-  if (BL==12) {einwohner=2208000 ; BL_Text="ST"}
-  if (BL==13) {einwohner=4078000 ; BL_Text="Sachsen"}
+  if (BL==12) {einwohner=4078000 ; BL_Text="Sachsen"}
+  if (BL==13) {einwohner=2208000 ; BL_Text="ST"}
   if (BL==14) {einwohner=2890000 ; BL_Text="SH"}
   if (BL==15) {einwohner=2137000 ; BL_Text="TH"}
    
