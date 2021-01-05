@@ -9,4 +9,4 @@ Nach dem Download müssen Sie nur das Skript "Corona Impfungen.js" hier runterla
 Viel Spaß damit! 
 
 
-https://github.com/mstoeb2s/Impfungen-Deutschland.git/Screenshot%20Widet.jpg
+https://github.com/mstoeb2s/Impfungen-Deutschland.git/Screenshot%20Widet.jpeg
