@@ -26,7 +26,7 @@
 const BL = 9
 
 //Quelle: ZEIT ONLINE
-const apiUrl = "https://interactive.zeit.de/cronjobs/2020/corona/impfzahlen.json"
+const apiUrl = "https://interactive.zeit.de/cronjobs/2020/corona/impfzahlenAutomatisch.json"
 
 
 const widget = await createWidget();
